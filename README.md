@@ -4,6 +4,7 @@ STEPS:
 Clone the repository
 
 https://github.com/entbappy/End-to-end-Text-Summarization](https://github.com/anirudhmittal2019/Celebrity-Search-Application
+
 STEP 01- Create a conda environment after opening the repository
 conda create -n venv python=3.9 -y
 conda activate summary
