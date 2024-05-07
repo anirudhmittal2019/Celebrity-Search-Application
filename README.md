@@ -16,4 +16,5 @@ STEP 03- add your own OpenAI API key
 
 # Finally run the following command
 python example1.py
+
 Now,open up you local host and port
